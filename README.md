@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
@@ -153,4 +154,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
