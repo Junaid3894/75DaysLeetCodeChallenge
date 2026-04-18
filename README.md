@@ -164,21 +164,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 ## Memoization
 |  |
