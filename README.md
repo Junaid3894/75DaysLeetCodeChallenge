@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Greedy
 |  |
 | ------- |
