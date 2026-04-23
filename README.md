@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2615-sum-of-distances](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/2615-sum-of-distances) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2615-sum-of-distances](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/2615-sum-of-distances) |
 ## Sorting
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [2615-sum-of-distances](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/2615-sum-of-distances) |
 ## Two Pointers
 |  |
 | ------- |
