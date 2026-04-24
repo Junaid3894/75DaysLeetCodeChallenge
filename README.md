@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2833-furthest-point-from-origin](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/2833-furthest-point-from-origin) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [2833-furthest-point-from-origin](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/2833-furthest-point-from-origin) |
 ## Quickselect
 |  |
 | ------- |
