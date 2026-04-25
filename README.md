@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0424-longest-repeating-character-replacement](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/2833-furthest-point-from-origin) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
@@ -215,5 +218,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 <!---LeetCode Topics End-->
