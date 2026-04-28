@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2615-sum-of-distances](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/2615-sum-of-distances) |
 ## Hash Table
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## String
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/1137-n-th-tribonacci-number) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Linked List
 |  |
 | ------- |
