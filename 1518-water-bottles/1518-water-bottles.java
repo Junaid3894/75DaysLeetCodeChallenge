@@ -8,6 +8,7 @@ class Solution {
 
             total += newBottles;
             numBottles = newBottles + remainder;
+
         }
 
         return total;
