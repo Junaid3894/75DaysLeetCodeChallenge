@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2615-sum-of-distances](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/2615-sum-of-distances) |
+| [3660-jump-game-ix](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Hash Table
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/1137-n-th-tribonacci-number) |
+| [3660-jump-game-ix](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Junaid3894/75DaysLeetCodeChallenge/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Sliding Window
 |  |
